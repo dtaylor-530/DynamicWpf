@@ -124,7 +124,11 @@
       <Project>{bc4627e5-26c0-4063-b927-57532f01c6e6}</Project>
       <Name>DynamicCustomHelper</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DynamicViewModel\DynamicWpf.csproj">
+    <ProjectReference Include="..\DynamicWpf.View\DynamicWpf.View.csproj">
+      <Project>{0106e582-d13f-4188-b464-1eb5c53981f7}</Project>
+      <Name>DynamicWpf.View</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DynamicWpf\DynamicWpf.csproj">
       <Project>{3adc1083-2dc5-48ca-b152-34b47d9045c7}</Project>
       <Name>DynamicWpf</Name>
     </ProjectReference>

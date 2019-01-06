@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicWpf.Demo", "DynamicViewModelWpf\DynamicWpf.Demo.csproj", "{C47ED2AB-0D65-4E95-A804-2EBC122B13CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicWpf.Demo", "DynamicWpf.Demo\DynamicWpf.Demo.csproj", "{C47ED2AB-0D65-4E95-A804-2EBC122B13CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicWpf", "DynamicViewModel\DynamicWpf.csproj", "{3ADC1083-2DC5-48CA-B152-34B47D9045C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicWpf", "DynamicWpf\DynamicWpf.csproj", "{3ADC1083-2DC5-48CA-B152-34B47D9045C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicWpf.View", "DynamicWpf.View\DynamicWpf.View.csproj", "{0106E582-D13F-4188-B464-1EB5C53981F7}"
 EndProject
